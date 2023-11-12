@@ -41,6 +41,8 @@ ul {
 .hero-title .accent {
     color: var(--color-brand);
 }
+.hero-section .accent {
+    color:var(--color-brand)}
 
 /* Advantages */
 .advantages-list{
@@ -54,3 +56,12 @@ ul {
 .section-title .accent {
     color: var(--color-brand-dark)
 }
+
+.footer-link {
+    color: var(--color-primary-light)
+}
+
+.copyright {
+    color: #A18268
+}
+
